@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onmzy/onmzy/main/image.png" width="100%">
+  <img src="(https://github.com/onmzy/onmzy/commit/7432cd75757b56c9efcfc9c811577b6abafd5388)" width="100%">
 </p>
